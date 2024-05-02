@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GihozoWeather</string>
+    <string name="get_forecast">Get Forecast</string>
+    <string name="get_current_weather">Get Current Weather</string>
+    <string name="current_weather">Current Weather</string>
+    <string name="additional_details">Additional Details</string>
+    <string name="wind_speed">Wind Speed: %1$s km/h</string>
+    <string name="humidity">Humidity: %1$s%%</string>
+    <string name="weather_icon_description">Weather icon</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="wind_speed_icon">Wind speed icon</string>
+    <string name="humidity_icon">Humidity icon</string>
+    <string name="pressure">Pressure</string>
+    <string name="pressure_icon">Pressure icon</string>
+    <string name="select_city">Select City</string>
+    <string name="city_spinner_description">City description</string>
+    <string name="forecast_title">Forecast title</string>
+    <string name="oman">Oman</string>
+    <string name="mauritius">Mauritius</string>
+    <string name="bangladesh">Bangladesh</string>
+    <string name="london">London</string>
+    <string name="glasgow">Glasgow</string>
+    <string name="newyork">New York</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
