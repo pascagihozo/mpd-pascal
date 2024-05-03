@@ -4,10 +4,10 @@
     <string name="get_current_weather">Get Current Weather</string>
     <string name="current_weather">Current Weather</string>
     <string name="additional_details">Additional Details</string>
-    <string name="wind_speed">Wind Speed: %1$s km/h</string>
-    <string name="humidity">Humidity: %1$s%%</string>
+    <string name="wind_speed">Wind Speed:  </string>
+    <string name="humidity">Humidity:  </string>
     <string name="weather_icon_description">Weather icon</string>
-    <string name="yesterday">Yesterday</string>
+    <string name="yesterday">Future</string>
     <string name="today">Today</string>
     <string name="tomorrow">Tomorrow</string>
     <string name="wind_speed_icon">Wind speed icon</string>

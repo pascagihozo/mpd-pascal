@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center"
+    android:background="@drawable/oman_background">
+
+    <TextView
+        android:id="@+id/about_header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About"
+        android:textStyle="bold"
+        android:textSize="34sp"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:id="@+id/about_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to the GCU Weather App, your comprehensive guide to weather conditions across GCU campuses worldwide. This app is designed to keep you informed about the weather, helping you plan your day with accurate forecasts. Whether you're studying, working, or just visiting, the GCU Weather App provides essential weather details such as temperature, humidity, wind speed, and pressure. Stay ahead of the weather with forecasts for today, tomorrow, and the day after, ensuring you're always prepared for any weather condition. Explore the app to discover more about the weather at your campus and around the world. Stay connected with the weather and make the most of your day with the GCU Weather App."
+        android:textSize="18sp"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="16dp"
+        android:gravity="center_horizontal"/>
+
+</LinearLayout>

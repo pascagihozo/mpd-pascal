@@ -319,6 +319,14 @@
             </LinearLayout>
 
         </com.google.android.material.card.MaterialCardView>
+        <Button
+            android:id="@+id/view_detailed_button"
+            android:layout_marginTop="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="View Detailed"
+            android:layout_gravity="center"
+            />
 
     </LinearLayout>
 
